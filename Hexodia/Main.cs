@@ -34,6 +34,7 @@ namespace Hexodia
         public Hexodia()
         {
             InitializeComponent();
+            hexConverter = new HexConverter();
             this.SetStyle(ControlStyles.ResizeRedraw, true);
 
             if(Properties.Settings.Default.runOnStartup)
