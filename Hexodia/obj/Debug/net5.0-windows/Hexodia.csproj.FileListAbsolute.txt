@@ -1,0 +1,8 @@
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\obj\Debug\net5.0-windows\Hexodia.csproj.AssemblyReference.cache
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\obj\Debug\net5.0-windows\Hexodia.Hexodia.resources
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\obj\Debug\net5.0-windows\Hexodia.Properties.Resources.resources
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\obj\Debug\net5.0-windows\Hexodia.csproj.GenerateResource.cache
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\obj\Debug\net5.0-windows\Hexodia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\obj\Debug\net5.0-windows\Hexodia.AssemblyInfoInputs.cache
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\obj\Debug\net5.0-windows\Hexodia.AssemblyInfo.cs
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\obj\Debug\net5.0-windows\Hexodia.csproj.CoreCompileInputs.cache

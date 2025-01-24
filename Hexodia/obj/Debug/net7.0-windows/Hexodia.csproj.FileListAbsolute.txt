@@ -1,0 +1,51 @@
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\bin\Debug\net7.0-windows\Hexodia.exe
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\bin\Debug\net7.0-windows\Hexodia.deps.json
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\bin\Debug\net7.0-windows\Hexodia.runtimeconfig.json
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\bin\Debug\net7.0-windows\Hexodia.dll
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\bin\Debug\net7.0-windows\Hexodia.pdb
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\obj\Debug\net7.0-windows\Hexodia.csproj.AssemblyReference.cache
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\obj\Debug\net7.0-windows\Hexodia.Hexodia.resources
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\obj\Debug\net7.0-windows\Hexodia.Properties.Resources.resources
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\obj\Debug\net7.0-windows\Hexodia.csproj.GenerateResource.cache
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\obj\Debug\net7.0-windows\Hexodia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\obj\Debug\net7.0-windows\Hexodia.AssemblyInfoInputs.cache
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\obj\Debug\net7.0-windows\Hexodia.AssemblyInfo.cs
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\obj\Debug\net7.0-windows\Hexodia.csproj.CoreCompileInputs.cache
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\obj\Debug\net7.0-windows\Hexodia.csproj.CopyComplete
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\obj\Debug\net7.0-windows\Hexodia.dll
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\obj\Debug\net7.0-windows\refint\Hexodia.dll
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\obj\Debug\net7.0-windows\Hexodia.pdb
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\obj\Debug\net7.0-windows\Hexodia.genruntimeconfig.cache
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\obj\Debug\net7.0-windows\ref\Hexodia.dll
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\bin\Debug\net7.0-windows\Magic.ModernUI.dll
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\bin\Debug\net7.0-windows\MetroFramework.Design.dll
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\bin\Debug\net7.0-windows\MetroFramework.Fonts.dll
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\bin\Debug\net7.0-windows\MetroFramework.dll
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\bin\Debug\net7.0-windows\FontAwesome.Sharp.dll
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia\Hexodia\bin\Debug\net7.0-windows\Hexodia.dll.config
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia Github\Hexodia\Hexodia\bin\Debug\net7.0-windows\Hexodia.exe
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia Github\Hexodia\Hexodia\bin\Debug\net7.0-windows\Hexodia.dll.config
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia Github\Hexodia\Hexodia\bin\Debug\net7.0-windows\Hexodia.deps.json
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia Github\Hexodia\Hexodia\bin\Debug\net7.0-windows\Hexodia.runtimeconfig.json
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia Github\Hexodia\Hexodia\bin\Debug\net7.0-windows\Hexodia.dll
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia Github\Hexodia\Hexodia\bin\Debug\net7.0-windows\Hexodia.pdb
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia Github\Hexodia\Hexodia\bin\Debug\net7.0-windows\FontAwesome.Sharp.dll
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia Github\Hexodia\Hexodia\bin\Debug\net7.0-windows\Magic.ModernUI.dll
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia Github\Hexodia\Hexodia\bin\Debug\net7.0-windows\MetroFramework.Design.dll
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia Github\Hexodia\Hexodia\bin\Debug\net7.0-windows\MetroFramework.Fonts.dll
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia Github\Hexodia\Hexodia\bin\Debug\net7.0-windows\MetroFramework.dll
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia Github\Hexodia\Hexodia\obj\Debug\net7.0-windows\Hexodia.csproj.AssemblyReference.cache
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia Github\Hexodia\Hexodia\obj\Debug\net7.0-windows\Hexodia.Hexodia.resources
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia Github\Hexodia\Hexodia\obj\Debug\net7.0-windows\Hexodia.Properties.Resources.resources
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia Github\Hexodia\Hexodia\obj\Debug\net7.0-windows\Hexodia.csproj.GenerateResource.cache
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia Github\Hexodia\Hexodia\obj\Debug\net7.0-windows\Hexodia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia Github\Hexodia\Hexodia\obj\Debug\net7.0-windows\Hexodia.AssemblyInfoInputs.cache
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia Github\Hexodia\Hexodia\obj\Debug\net7.0-windows\Hexodia.AssemblyInfo.cs
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia Github\Hexodia\Hexodia\obj\Debug\net7.0-windows\Hexodia.csproj.CoreCompileInputs.cache
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia Github\Hexodia\Hexodia\obj\Debug\net7.0-windows\Hexodia.csproj.CopyComplete
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia Github\Hexodia\Hexodia\obj\Debug\net7.0-windows\Hexodia.dll
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia Github\Hexodia\Hexodia\obj\Debug\net7.0-windows\refint\Hexodia.dll
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia Github\Hexodia\Hexodia\obj\Debug\net7.0-windows\Hexodia.pdb
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia Github\Hexodia\Hexodia\obj\Debug\net7.0-windows\Hexodia.genruntimeconfig.cache
+C:\Users\QuoiE\OneDrive\Bureau\AB\Hexodia Github\Hexodia\Hexodia\obj\Debug\net7.0-windows\ref\Hexodia.dll
