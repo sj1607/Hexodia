@@ -8,7 +8,8 @@
 🎯 **Hexodia** is perfect for developers, data analysts, or anyone working with hexadecimal data!  
 Here's what it offers:  
 - ⚙️ Conversion of strings, integers, floats, and doubles to hexadecimal.  
-- 🔄 Conversion of hexadecimal data back into multiple formats.  
+- 🔄 Conversion of hexadecimal data back into multiple formats.
+- 🔧 Supports **Little Endian** and **Big Endian** conversions.  
 - 📋 One-click copy of results for quick use.  
 - 🎨 A modern, customizable interface with draggable windows and golden borders.  
 - 🖥️ Optional startup with Windows, configurable via a toggle.  
