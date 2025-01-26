@@ -181,7 +181,7 @@ namespace Hexodia
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Conversion error : " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                 ClearOutputs();
             }
         }
 
